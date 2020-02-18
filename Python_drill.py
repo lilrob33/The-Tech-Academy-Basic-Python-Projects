@@ -75,11 +75,3 @@ for f in fList:
 
 
 
-
-
-
-
-
-
-
-if __name__ == "__main__":
