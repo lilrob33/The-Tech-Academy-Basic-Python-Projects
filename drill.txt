@@ -1,1 +1,0 @@
-This is one of the files for the Python drill.
